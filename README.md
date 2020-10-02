@@ -1,5 +1,5 @@
 # iPadAir4_lambda
-The iPad Air 4 is currenlty 'Avialable in October' on the [apple website](https://www.apple.com/ie/ipad-air/).  
+The iPad Air 4 is currenlty ' Available in October' on the [apple website](https://www.apple.com/ie/ipad-air/).  
 This is an AWS lambda function that checks the apple website for iPad Air 4 availability changes.
 
 # System Overview
@@ -33,6 +33,6 @@ This is an AWS lambda function that checks the apple website for iPad Air 4 avai
   ##### Disclaimer:
   - Please observe best practices while scraping a web site (use a reasonable limit per hour to avoid getting blocked)
   - Use the [AWS Secrets manager](https://aws.amazon.com/secrets-manager/) instead of hard-coding your keys in the source code.
-  - This project is created for educational purposed only. 
+  - This project is created for educational purposes only. 
   - Lets hope iPad pre-orders open next week! 
 
